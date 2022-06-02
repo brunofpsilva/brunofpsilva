@@ -10,7 +10,7 @@ I'm Bruno, currently studying informatic engennering focused on Web Development.
 
  ### Technologies
 
- ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)![Java Badge](https://img.shields.io/badge/-JAVA-fff?style=for-the-badge&labelColor=black&logo=java&logoColor=007acc)![NestJS Badge](https://img.shields.io/badge/-NESTJS-red?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=red)
+ ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)![Java Badge](https://img.shields.io/badge/-JAVA-eee?style=for-the-badge&labelColor=black&logo=java&logoColor=007acc)![NestJS Badge](https://img.shields.io/badge/-NESTJS-red?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=red)
 
 
 ### Contact
