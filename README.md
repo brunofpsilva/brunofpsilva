@@ -1,4 +1,4 @@
-## Bruno Silva <img style="width: 25px" src="https://i.gifer.com/6ov.gif">
+## Bruno Silva 👀
 
 I'm Bruno, currently studying informatic engennering focused on Web Development. 
 
