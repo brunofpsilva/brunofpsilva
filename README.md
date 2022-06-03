@@ -1,6 +1,6 @@
 ## Bruno Silva 👀
 
-I'm Bruno, currently studying informatic engennering focused on Web Development. 
+Currently studying informatic engennering focused on Web Development. 
 
 :mailbox: Socials
 
