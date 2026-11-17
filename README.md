@@ -1,23 +1,56 @@
-## Bruno Silva 👀
+<div align="center">
 
-Currently studying informatic engennering focused on Web Development. 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi!+I'm+Bruno+%F0%9F%91%8B;Software+Engineer+%40+Critical+Manufacturing;.NET+%2B+Angular+%2B+a+bit+of+AI+%F0%9F%A4%96;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 
-:mailbox: Socials
+</div>
 
- [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Silva-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunofpsilva/) [![Mail Badge](https://img.shields.io/badge/-brunofpsilva98-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:brunofpsilva98@gmail.com)
+```csharp
+// Bruno.cs — running in production since 1998
 
- ### Technologies
+public class Bruno : SoftwareEngineer
+{
+    public string Company   => "Critical Manufacturing (since 2022)";
+    public string Role      => "Software Engineer";
+    public int    Experience => 6; // years, and counting
+    public string Location  => "Guimarães, Portugal 🇵🇹";
 
- ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)![Angular Badge](https://img.shields.io/badge/-Angular-C3002F?style=for-the-badge&labelColor=white&logo=angular&logoColor=C3002F)![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)![NestJS Badge](https://img.shields.io/badge/-NESTJS-red?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=red)
+    public string[] Stack     => [ "C#", ".NET", "Angular", "TypeScript", "NestJS", "React" ];
+    public string[] Exploring => [ "AI agents", "MCP servers", "Software architecture" ];
 
+    public Status GetStatus() =>
+        coffee.Level > 0 ? Status.Running : Status.OnHold; // ☕ = throughput
+}
+```
 
-### Contact
+### 📜 `git log --oneline career`
 
-- :email: brunofpsilva98@gmail.com
+```bash
+a1b2c3d (HEAD -> main) feat: 6+ years shipping .NET & Angular to production 🚀
+9f8e7d6 feat: master's thesis almost merged (IPCA) 🎓
+4c5d6e7 feat: joined Critical Manufacturing in 2022 🏢
+3b4a5c6 chore: bachelor's in Computer Engineering ✅
+0000001 init: hello world
+```
 
+### 🛠️ Tech stack
 
-#### Stats 
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,nestjs,react,git,docker,vscode&perline=9" alt="Tech stack" />
+</p>
 
+### 🐍 A snake eating my contributions
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunofpsilva/brunofpsilva/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunofpsilva/brunofpsilva/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/brunofpsilva/brunofpsilva/output/github-contribution-grid-snake.svg" />
+</picture>
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=brunofpsilva&count_private=true&theme=tokyonight&hide=contribs,prs)
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/-Bruno%20Silva-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunofpsilva/)
+[![Gmail](https://img.shields.io/badge/-brunofpsilva98-c0392b?style=flat&logo=gmail&logoColor=white)](mailto:brunofpsilva98@gmail.com)
+
+<div align="center">
+<sub><code>// TODO: write a better footer</code></sub>
+</div>
