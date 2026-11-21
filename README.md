@@ -11,8 +11,10 @@ public class Bruno : SoftwareEngineer
 {
     public string Company   => "Critical Manufacturing (since 2022)";
     public string Role      => "Software Engineer";
+    public string[] DayToDay  => [ "Feature architecture", "Client-facing on MES projects", "Planning with the team" ];
     public int    Experience => 6; // years, and counting
     public string Location  => "Guimarães, Portugal 🇵🇹";
+    public string Domain    => "Manufacturing Execution Systems (MES)";
 
     public string[] Stack     => [ "C#", ".NET", "Angular", "TypeScript", "NestJS", "React" ];
     public string[] Exploring => [ "AI agents", "MCP servers", "Software architecture" ];
@@ -50,7 +52,3 @@ a1b2c3d (HEAD -> main) feat: 6+ years shipping .NET & Angular to production 🚀
 
 [![LinkedIn](https://img.shields.io/badge/-Bruno%20Silva-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunofpsilva/)
 [![Gmail](https://img.shields.io/badge/-brunofpsilva98-c0392b?style=flat&logo=gmail&logoColor=white)](mailto:brunofpsilva98@gmail.com)
-
-<div align="center">
-<sub><code>// TODO: write a better footer</code></sub>
-</div>
